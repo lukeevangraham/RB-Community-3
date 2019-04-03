@@ -240,7 +240,7 @@ section
 	width: 160px;
 	height: 46px;
 	text-align: center;
-	background: #b10707;
+	background: #327091;
 	border-radius: 3px;
 }
 .button a
@@ -353,7 +353,7 @@ section
 }
 .social_list li:hover a i
 {
-	color: #b10707;
+	color: #327091;
 }
 
 /*********************************
@@ -463,7 +463,7 @@ section
 .main_nav li a:hover,
 .main_nav li.active a
 {
-	color: #b10707;
+	color: #327091;
 }
 .search_button
 {
@@ -482,7 +482,7 @@ section
 }
 .search_button:hover i
 {
-	color: #b10707;
+	color: #327091;
 }
 .header_search_form
 {
@@ -496,7 +496,7 @@ section
 	bottom: 0px;
 	left: 0px;
 	width: 100%;
-	background: #b10707;
+	background: #327091;
 	z-index: -1;
 	opacity: 0;
 	-webkit-transition: all 400ms ease;
@@ -708,7 +708,7 @@ section
 }
 .breadcrumbs ul li a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .breadcrumbs ul li:not(:last-child)::after
 {
@@ -747,7 +747,7 @@ section
 {
 	width: 70px;
 	height: 70px;
-	background: #b10707;
+	background: #327091;
 }
 .blog_post_day
 {
@@ -793,7 +793,7 @@ section
 .blog_post_meta ul li i
 {
 	font-size: 18px;
-	color: #b10707;
+	color: #327091;
 }
 .blog_post_meta ul li a
 {
@@ -811,7 +811,7 @@ section
 }
 .blog_post_meta ul li a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .blog_post_text
 {
@@ -864,7 +864,7 @@ section
 }
 .blog_social ul li a i:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 
 /*********************************
@@ -905,7 +905,7 @@ section
 }
 .blog_post_tags ul li:hover
 {
-	background: #b10707;
+	background: #327091;
 }
 .blog_post_tags ul li:hover a
 {
@@ -998,7 +998,7 @@ section
 }
 .comment_name a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .comment_time
 {
@@ -1037,7 +1037,7 @@ section
 }
 .reply a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .comment ul
 {
@@ -1123,7 +1123,7 @@ section
 	width: 170px;
 	height: 45px;
 	cursor: pointer;
-	background: #b10707;
+	background: #327091;
 	color: #FFFFFF;
 	font-size: 16px;
 	font-weight: 700;
@@ -1205,7 +1205,7 @@ section
 }
 .footer_contact ul li div i
 {
-	color: #b10707;
+	color: #327091;
 }
 .footer_contact ul li span
 {
@@ -1250,11 +1250,11 @@ section
 }
 .footer_links_list li a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .footer_links_list li a i
 {
-	color: #b10707 !important;
+	color: #327091 !important;
 }
 .footer_subscribe
 {
@@ -1325,14 +1325,14 @@ section
 	border-top-right-radius: 3px;
 	border-bottom-right-radius: 3px;
 	font-size: 12px;
-	color: #b10707;
+	color: #327091;
 	font-weight: 700;
 	text-transform: uppercase;
 	cursor: pointer;
 }
 .subscribe_button:hover
 {
-	background: #b10707;
+	background: #327091;
 	color: #FFFFFF;
 }
 .copyright_row
@@ -1370,5 +1370,5 @@ section
 }
 .footer_social ul li a i:hover
 {
-	color: #b10707;
+	color: #327091;
 }
