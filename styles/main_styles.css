@@ -244,7 +244,7 @@ section
 	width: 160px;
 	height: 46px;
 	text-align: center;
-	background: #b10707;
+	background: #327091;
 	border-radius: 3px;
 }
 .button a
@@ -357,7 +357,7 @@ section
 }
 .social_list li:hover a i
 {
-	color: #b10707;
+	color: #327091;
 }
 
 /*********************************
@@ -467,7 +467,7 @@ section
 .main_nav li a:hover,
 .main_nav li.active a
 {
-	color: #b10707;
+	color: #327091;
 }
 .search_button
 {
@@ -486,7 +486,7 @@ section
 }
 .search_button:hover i
 {
-	color: #b10707;
+	color: #327091;
 }
 .header_search_form
 {
@@ -500,7 +500,7 @@ section
 	bottom: 0px;
 	left: 0px;
 	width: 100%;
-	background: #b10707;
+	background: #327091;
 	z-index: -1;
 	opacity: 0;
 	-webkit-transition: all 400ms ease;
@@ -729,7 +729,7 @@ section
 {
 	width: 70px;
 	height: 70px;
-	background: #b10707;
+	background: #327091;
 }
 .event_day
 {
@@ -766,7 +766,7 @@ section
 }
 .event_title a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .event_row
 {
@@ -781,7 +781,7 @@ section
 .event_icon i
 {
 	font-size: 16px;
-	color: #b10707;
+	color: #327091;
 }
 .event_row li span
 {
@@ -941,7 +941,7 @@ section
 	font-family: 'Old Standard TT', serif;
 	font-size: 13px;
 	font-style: italic;
-	color: #b10707;
+	color: #327091;
 }
 .sermon_title a
 {
@@ -958,7 +958,7 @@ section
 }
 .sermon_title a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .sermon_links
 {
@@ -998,7 +998,7 @@ section
 }
 .sermon_links ul li:hover
 {
-	background: #b10707;
+	background: #327091;
 }
 .sermon_links ul li:hover a i
 {
@@ -1036,7 +1036,7 @@ section
 .mission_icon i
 {
 	font-size: 36px;
-	color: #b10707;
+	color: #327091;
 }
 .mission_title
 {
@@ -1168,7 +1168,7 @@ section
 }
 .donation_info_list li a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .donation_text
 {
@@ -1227,7 +1227,7 @@ section
 .donation_progress
 {
 	height: 100%;
-	background: #b10707;
+	background: #327091;
 	border-radius: 7px;
 }
 .donation_progress_value
@@ -1303,7 +1303,7 @@ section
 {
 	font-family: 'Assistant', sans-serif;
 	font-size: 18px;
-	color: #b10707;
+	color: #327091;
 	font-weight: 600;
 	margin-top: 13px;
 }
@@ -1379,7 +1379,7 @@ section
 }
 .news_post_title a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .news_post_meta
 {
@@ -1395,7 +1395,7 @@ section
 }
 .news_post_meta ul li i
 {
-	color: #b10707;
+	color: #327091;
 }
 .news_post_meta ul li a
 {
@@ -1413,7 +1413,7 @@ section
 }
 .news_post_meta ul li a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .news_post_text
 {
@@ -1497,7 +1497,7 @@ section
 }
 .footer_contact ul li div i
 {
-	color: #b10707;
+	color: #327091;
 }
 .footer_contact ul li span
 {
@@ -1542,11 +1542,11 @@ section
 }
 .footer_links_list li a:hover
 {
-	color: #b10707;
+	color: #327091;
 }
 .footer_links_list li a i
 {
-	color: #b10707 !important;
+	color: #327091 !important;
 }
 .footer_subscribe
 {
@@ -1617,14 +1617,14 @@ section
 	border-top-right-radius: 3px;
 	border-bottom-right-radius: 3px;
 	font-size: 12px;
-	color: #b10707;
+	color: #327091;
 	font-weight: 700;
 	text-transform: uppercase;
 	cursor: pointer;
 }
 .subscribe_button:hover
 {
-	background: #b10707;
+	background: #327091;
 	color: #FFFFFF;
 }
 .copyright_row
@@ -1662,5 +1662,5 @@ section
 }
 .footer_social ul li a i:hover
 {
-	color: #b10707;
+	color: #327091;
 }
