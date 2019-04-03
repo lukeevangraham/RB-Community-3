@@ -146,12 +146,12 @@ $(document).ready(function()
 		if($('.event_timer').length)
     	{
     		// Uncomment line below and replace date
-	    	// var target_date = new Date("April 7, 2018").getTime();
+	    	var target_date = new Date("April 21, 2019").getTime();
 
 	    	// comment lines below
-	    	var date = new Date();
-	    	date.setDate(date.getDate() + 3);
-	    	var target_date = date.getTime();
+	    	// var date = new Date();
+	    	// date.setDate(date.getDate() + 3);
+	    	// var target_date = date.getTime();
 	    	//----------------------------------------
 	 
 			// variables for time units
